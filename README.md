@@ -1,1 +1,1 @@
-# This is a repository for my profile.
+This is a repository for my profile.
